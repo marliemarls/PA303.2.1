@@ -10,7 +10,6 @@ public class TwoVarsCasted {
         q = (double) y;
 
         System.out.println("The result when doubled is " + q);
-        System.out.printf("");
 
     }
 }
